@@ -2,7 +2,7 @@
 
 This is a simple ToDoList application built with VueJS. Users can add, edit, and delete tasks, and mark them as completed or not completed.
 
-# [DEMO](https://bogdana18.github.io/softpro_TodoList/)
+# [DEMO](https://softpro-todo-list.vercel.app/)
 
 ## Features
 
